@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : ""
+locale                   : "es"
+title                    : "María José Briceño Nikulin"
 title_separator          : "-"
-name                     : &name "María José Briceño"
-description              : &description "personal description"
+name                     : &name ""
+description              : &description "Software Engineer"
 url                      : https://majobrini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "majobrini/academicpages.github.io"

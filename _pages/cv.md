@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "María José Briceño Nikulin"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,10 @@ redirect_from:
 Education
 ======
 * Diploma en Ingeniería de Software, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2024
+* UCR INNOVA’R I-CORPS-Based Training, University of California, Riverside, 2020
 * Diploma en Inteligencia Artificial, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2019
+* Magíster en Ciencias de la Ingeniería, mención Eléctrica. Facultad de Ciencias Físicas y
+  Matemáticas. Universidad de Chile. (Retiro voluntario), 2016-2017
 * B.S. in Electrical Civil Engineer, Universidad de Santiago de Chile, 2013
 
 Work experience
