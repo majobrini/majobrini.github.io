@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Mi página personal
+About me
 ======
 Hola! Soy María José Briceño Nikulin, Ingeniera Civil en Electricidad de la Universidad de Santiago de Chile. Este es
 mi sitio personal. Acá hablo de mis estudios, mi carrera profesional y algunos pasatiempos.
