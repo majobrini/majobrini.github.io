@@ -16,7 +16,7 @@ Education
 * Diploma en Inteligencia Artificial, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2019
 * Magíster en Ciencias de la Ingeniería, mención Eléctrica. Facultad de Ciencias Físicas y
   Matemáticas. Universidad de Chile. (Retiro voluntario), 2016-2017
-* B.S. in Electrical Civil Engineer, Universidad de Santiago de Chile, 2013
+* Ingeniera Civil en Electricidad, Universidad de Santiago de Chile, 2013
 
 
 
