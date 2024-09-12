@@ -59,7 +59,7 @@ Experiencia Laboral
      transporte
 
 
-Habilodades
+Habilidades
 ======
 * Skill 1
 * Skill 2
