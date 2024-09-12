@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * Diploma en Ingeniería de Software, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2024
 * UCR INNOVA’R I-CORPS-Based Training, University of California, Riverside, 2020
@@ -20,7 +20,7 @@ Education
 
 
 
-Work experience
+Experiencia Laboral
 ======
 
 * **Febrero 2024- Julio 204: Software Engineer, SUBTEL, Ministerio de Transportes**
@@ -59,7 +59,7 @@ Work experience
      transporte
 
 
-Skills
+Habilodades
 ======
 * Skill 1
 * Skill 2
@@ -68,7 +68,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Publicaciones
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
