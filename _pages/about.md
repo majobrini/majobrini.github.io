@@ -17,4 +17,4 @@ mi sitio personal. Acá hablo de mis estudios, mi carrera profesional y algunos 
 
 For more info
 ------
-Para más información por favor contactarse a: [email](mailto:mjnikulin@gmail.com). 
+Para más información por favor contactarse a: [email](mailto:mjnikulin@gmail.com)
