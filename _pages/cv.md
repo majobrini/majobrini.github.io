@@ -54,24 +54,10 @@ Experiencia Laboral
       * Puesta en producción de dos prototipos, uno para medir la evasión en los buses y el otro es la
         homologación con los equipos de Transantiago
   
-* Proyecto KMS
-   * Diseño y desarrollo de una aplicación para gestionar la seguridad de las tarjetas de los sistemas de
-     transporte
+  * Proyecto KMS
+     * Diseño y desarrollo de una aplicación para gestionar la seguridad de las tarjetas de los sistemas de
+       transporte
 
-
-Habilidades
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publicaciones
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+       
   
 
