@@ -7,6 +7,10 @@ venue: "Udemy, Stefan Trifunovic"
 date: 2022-08-25
 location: "Santiago, Chile"
 excerpt: "Play Framework"
+tags:
+  - play
+  - scala
+  - framework
 ---
 <div style="text-align: justify;">Play Framework Web Development For Beginners</div>
 <br>

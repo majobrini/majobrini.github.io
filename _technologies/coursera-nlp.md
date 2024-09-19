@@ -7,6 +7,9 @@ venue: "Universidad Austral, Facultad de Ingeniería"
 date: 2022-02-02
 location: "Santiago, Chile"
 excerpt: "Procesamiento de Lenguaje Natural"
+tags:
+    - Natural Language Processing
+    - Artificial Intelligence
 ---
 
 

@@ -7,7 +7,8 @@ date: 2022-04-09
 location: "Santiago, Chile"
 excerpt: "Introducción a bases de datos NoSQL con MongoDB"
 tags: 
-    - NoSQL DB 
+    - mongo
+    - database
 ---
 
 
