@@ -5,7 +5,9 @@ permalink: /technologies/
 author_profile: true
 ---
 
-Esta es una prueba
-
 {% include base_path %}
 
+
+{% for post in site.technologies reversed %}
+    {% include archive-single.html %}
+{% endfor %}

@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Torneos"
+permalink: /athletics/
+author_profile: true
+---
+
+{% if site.athletics_link == true %}
+
+<p style="text-decoration:underline;"><a href="/athletics.html">Torneos</a></p>
+
+{% endif %}
+
+{% for post in site.athletics reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
+
