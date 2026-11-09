@@ -25,6 +25,7 @@ author:
   name             : "María José Briceño Nikulin"
   pronouns         : "she/her"  
   bio              : "Backend Software Engineer @ Thoughtworks | Java · Spring Boot · Arquitectura Hexagonal | Kubernetes · GCP · CI/CD | Ingeniera Civil Eléctrica"
+  bio_en           : "Backend Software Engineer @ Thoughtworks | Java · Spring Boot · Hexagonal Architecture | Kubernetes · GCP · CI/CD | Electrical Engineer"
   location         : "Santiago, Chile"
   uri              :  "https://majobrini.github.io"
   email            : "mjnikulin@gmail.com" 
@@ -107,9 +108,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "" # Pega aquí tu ID de medición de GA4, ej. "G-XXXXXXXXXX". Mientras esté vacío no se carga nada.
 
 
 # Reading Files
