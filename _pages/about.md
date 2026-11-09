@@ -7,15 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-
 ¡Hola! Soy María José Briceño Nikulin, Backend Software Engineer y Developer Consultant en Thoughtworks.
 Trabajo principalmente con Java, Spring Boot y arquitectura hexagonal, desplegando en Kubernetes y GCP
 con pipelines de CI/CD en GitLab, y con observabilidad en Grafana y Prometheus.
-
-[Descargar CV (PDF)](/files/cv-maria-jose-briceno-nikulin-es.pdf){: .btn .btn--primary}
-[Escríbeme](mailto:mjnikulin@gmail.com){: .btn .btn--inverse}
-[LinkedIn](https://www.linkedin.com/in/mariajosebricenonikulin){: .btn .btn--inverse}
-[GitHub](https://github.com/canetaba){: .btn .btn--inverse}
 
 Soy Ingeniera Civil en Electricidad de la Universidad de Santiago de Chile, con formación en automatización
 y control de procesos industriales. Esa base en sistemas embebidos y control me llevó al desarrollo de
@@ -25,3 +19,8 @@ otro en Ingeniería de Software.
 
 En este sitio comparto mi [CV](/cv/), mis [publicaciones](/publications/), las [tecnologías](/technologies/)
 con las que trabajo y mi otra pasión: el [atletismo](/athletics/).
+
+[Descargar CV (PDF)](/files/cv-maria-jose-briceno-nikulin-es.pdf){: .btn .btn--primary}
+[Escríbeme](mailto:mjnikulin@gmail.com){: .btn .btn--inverse}
+[LinkedIn](https://www.linkedin.com/in/mariajosebricenonikulin){: .btn .btn--inverse}
+[GitHub](https://github.com/canetaba){: .btn .btn--inverse}
