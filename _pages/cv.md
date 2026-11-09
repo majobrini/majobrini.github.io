@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Descargar CV en PDF](/files/cv-maria-jose-briceno-nikulin-es.pdf){: .btn .btn--primary} [English version](/files/cv-maria-jose-briceno-nikulin-en.pdf){: .btn .btn--inverse}
+
 Educación
 ------
 * Diploma en Ingeniería de Software, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2024. Aprobado con distinción máxima
