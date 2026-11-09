@@ -1,4 +1,4 @@
-{% if site.analytics.provider and page.analytics != false %}
+{% if site.analytics.provider and site.analytics.provider != "false" and page.analytics != false %}
 
 {% case site.analytics.provider %}
 {% when "google" %}
@@ -6,7 +6,9 @@
 {% when "google-universal" %}
   {% include /analytics-providers/google-universal.html %}
 {% when "google-analytics-4" %}
+  {% if site.analytics.google.tracking_id and site.analytics.google.tracking_id != "" %}
   {% include /analytics-providers/google-analytics-4.html %}
+  {% endif %}
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
 {% endcase %}
