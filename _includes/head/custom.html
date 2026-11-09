@@ -35,7 +35,7 @@
 {% assign es_pages = "/|/cv/|/publications/|/technologies/|/athletics/" | split: "|" %}
 {% if page.lang == "en" %}{% assign es_url = page.url | remove_first: "/en" %}{% assign en_url = page.url %}{% else %}{% assign es_url = page.url %}{% assign en_url = page.url | prepend: "/en" %}{% endif %}
 {% if es_pages contains es_url %}
-<link rel="alternate" hreflang="es" href="{{ site.url }}{{ base_path }}{{ es_url }}">
-<link rel="alternate" hreflang="en" href="{{ site.url }}{{ base_path }}{{ en_url }}">
-<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ base_path }}{{ es_url }}">
+<link rel="alternate" hreflang="es" href="{{ base_path }}{{ es_url }}">
+<link rel="alternate" hreflang="en" href="{{ base_path }}{{ en_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ base_path }}{{ es_url }}">
 {% endif %}
