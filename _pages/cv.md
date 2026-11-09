@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Descargar CV en PDF](/files/cv-maria-jose-briceno-nikulin-es.pdf){: .btn .btn--primary} [English version](/files/cv-maria-jose-briceno-nikulin-en.pdf){: .btn .btn--inverse}
-
 Educación
 ------
 * Diploma en Ingeniería de Software, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2024. Aprobado con distinción máxima
@@ -20,8 +18,6 @@ Educación
   Matemáticas. Universidad de Chile. (Retiro voluntario), 2015-2017
 * Ingeniera Civil en Electricidad, Universidad de Santiago de Chile, 2013
 
-
-
 Experiencia Laboral
 ------
 
@@ -30,10 +26,8 @@ Experiencia Laboral
   * Despliegue y operación en Kubernetes y GCP, con pipelines de CI/CD en GitLab
   * Observabilidad con Grafana y Prometheus
 
-
 * **Julio 2024 - Mayo 2025. Ingeniera Consultora, profesional independiente**
   * Consultoría en desarrollo de software con Java
-
 
 * **Febrero 2023 - Julio 2024. Software Engineer, SUBTEL, Ministerio de Transportes y Telecomunicaciones**
   * Líder Técnico para implementación de la ley de gobierno digital en SUBTEL
@@ -73,3 +67,4 @@ Experiencia Laboral
        
   
 
+[Descargar CV en PDF](/files/cv-maria-jose-briceno-nikulin-es.pdf){: .btn .btn--primary} [English version](/files/cv-maria-jose-briceno-nikulin-en.pdf){: .btn .btn--inverse}
