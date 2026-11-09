@@ -1,44 +1,27 @@
 ---
-title: "Stack Tecnologico"
+title: "Stack Tecnológico"
 collection: technologies
 type: "technologies"
 permalink: /technologies/stack
-date: 2024-09-18
+date: 2026-11-09
 location: "Santiago, Chile"
-excerpt: "Stack"
+excerpt: "Java, Spring Boot, arquitectura hexagonal, Kubernetes, GCP, GitLab CI/CD, Grafana y Prometheus"
 tags:
     - java
-    - python
-    - scala
-    - framework
-    - sistemas operativos
-    - lenguajes de programacion
+    - spring boot
+    - arquitectura hexagonal
+    - kubernetes
+    - gcp
+    - ci/cd
 ---
 
-
-<div style="text-align: justify;">Stack Tecnológico
-</div>
-<br>
-<!--more-->
-
-
-<div style="text-align: justify;">Lenguajes  </div>
-<p> java </p>
-<p> python </p>
-<p> scala </p>
-<p> javascript </p>
-
-<div style="text-align: justify;">Frameworks </div>
-<p> Springboot </p>
-<p> Django </p>
-<p> Play </p>
-
-<div style="text-align: justify;">Bases de datos </div>
-<p> Oracle </p>
-<p> SQL </p>
-<p> Mongo </p>
-
-<div style="text-align: justify;">Sistemas Operativos </div>
-<p> Linux </p>
-<p> Windows </p>
-
+Stack actual
+------
+* **Lenguajes:** Java (principal), Python, Scala, JavaScript
+* **Frameworks:** Spring Boot, Django, Play
+* **Arquitectura:** arquitectura hexagonal (puertos y adaptadores), microservicios
+* **Cloud y contenedores:** Kubernetes, Google Cloud Platform (GCP)
+* **CI/CD:** GitLab CI/CD
+* **Observabilidad:** Grafana, Prometheus
+* **Bases de datos:** Oracle, SQL, MongoDB
+* **Sistemas operativos:** Linux, Windows

@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publicaciones"
 permalink: /publications/
 author_profile: true
 ---
 
-Puedes encontrar el artículo en: <u><a href="https://scholar.google.com/citations?user=aMdEAVwAAAAJ&hl=es">my Google Scholar profile</a>.</u>
+Puedes encontrar el artículo en: <u><a href="https://scholar.google.com/citations?user=aMdEAVwAAAAJ&hl=es">mi perfil de Google Scholar</a>.</u>
 
 
 

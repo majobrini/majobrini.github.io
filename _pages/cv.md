@@ -11,9 +11,9 @@ redirect_from:
 
 Educación
 ======
-* Diploma en Ingeniería de Software, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2024
+* Diploma en Ingeniería de Software, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2024. Aprobado con distinción máxima
 * UCR INNOVA’R I-CORPS-Based Training, University of California, Riverside, 2020
-* Diploma en Inteligencia Artificial, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2019
+* Diploma en Inteligencia Artificial, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2019-2020. Aprobado con distinción máxima
 * Magíster en Ciencias de la Ingeniería, mención Eléctrica. Facultad de Ciencias Físicas y
   Matemáticas. Universidad de Chile. (Retiro voluntario), 2016-2017
 * Ingeniera Civil en Electricidad, Universidad de Santiago de Chile, 2013
@@ -23,19 +23,29 @@ Educación
 Experiencia Laboral
 ======
 
-* **Febrero 2024- Julio 204: Software Engineer, SUBTEL, Ministerio de Transportes**
+* **Enero 2025 - actualidad. Developer Consultant, Thoughtworks**
+  * Desarrollo backend con Java, Spring Boot y arquitectura hexagonal
+  * Despliegue y operación en Kubernetes y GCP, con pipelines de CI/CD en GitLab
+  * Observabilidad con Grafana y Prometheus
+
+
+* **Julio 2024 - Mayo 2025. Ingeniera Consultora, profesional independiente**
+  * Consultoría en desarrollo de software con Java
+
+
+* **Febrero 2023 - Julio 2024. Software Engineer, SUBTEL, Ministerio de Transportes y Telecomunicaciones**
   * Líder Técnico para implementación de la ley de gobierno digital en SUBTEL
   * Desarrollo, soporte y mantención de las plataformas computacionales para la operación de SUBTEL
   * Diseño e implementación de nuevos features para la actualización tecnológica basada en
     microservicios
   
 
-* **Marzo 2022 - Diciembre 2022. Software Engineer, EVoting SpA**
+* **Marzo 2022 - Diciembre 2022. Software Engineer, EVoting Global**
   * Desarrollo y mantención de features para las plataformas de EHolders, para junta de accionistas y
     EVoters, software de elecciones
   
 
-* **2016 - 2022. Software Engineer, Sonda S.A.**
+* **Septiembre 2016 - Marzo 2022. Software Engineer, Sonda S.A.**
   * Proyecto de Gestión de Flota: Desarrollo del software de consola.
       *  Diseño, desarrollo de drivers y pruebas de funcionamiento para GPS, contador de pasajeros, y
          validadores
@@ -43,8 +53,8 @@ Experiencia Laboral
         estimar los tiempos de llegada de un bus a los próximos paraderos y la posición de un bus dentro de
         un túnel
       * Diseño y generación de planos eléctricos para la circuitería a bordo de un bus
-        Automatización de la carga de archivos en la BD local del equipo embarcado
-        Diseño y ejecución de pruebas en terreno para probar los nuevos desarrollos en su primera etapa
+      * Automatización de la carga de archivos en la BD local del equipo embarcado
+      * Diseño y ejecución de pruebas en terreno para probar los nuevos desarrollos en su primera etapa
       * Apoyo a los departamentos de Testing y Operaciones en las pruebas de software y la puesta en
         producción
       * Generación de documentación técnica asociada a cada desarrollo
