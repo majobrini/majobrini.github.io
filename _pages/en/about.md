@@ -1,12 +1,10 @@
 ---
 permalink: /en/
-title: ""
+title: "About me"
 lang: en
 author_profile: true
 ---
 
-About me
-======
 Hi! I'm María José Briceño Nikulin, a Backend Software Engineer and Developer Consultant at Thoughtworks.
 I work mainly with Java, Spring Boot and hexagonal architecture, deploying to Kubernetes and GCP
 with GitLab CI/CD pipelines, and monitoring with Grafana and Prometheus.

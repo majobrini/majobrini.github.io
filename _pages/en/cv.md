@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Curriculum Vitae"
 permalink: /en/cv/
 lang: en
 author_profile: true
@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 Education
-======
+------
 * Diploma in Software Engineering, Department of Computer Science (DCC), Faculty of Physical and Mathematical Sciences, Universidad de Chile, 2024. Passed with highest distinction
 * UCR INNOVA'R I-CORPS-Based Training, University of California, Riverside, 2020
 * Diploma in Artificial Intelligence, Department of Computer Science (DCC), Faculty of Physical and Mathematical Sciences, Universidad de Chile, 2019-2020. Passed with highest distinction
@@ -20,7 +20,7 @@ Education
 
 
 Work Experience
-======
+------
 
 * **January 2025 - present. Developer Consultant, Thoughtworks**
   * Backend development with Java, Spring Boot and hexagonal architecture
