@@ -9,6 +9,11 @@ Hi! I'm María José Briceño Nikulin, a Backend Software Engineer and Developer
 I work mainly with Java, Spring Boot and hexagonal architecture, deploying to Kubernetes and GCP
 with GitLab CI/CD pipelines, and monitoring with Grafana and Prometheus.
 
+[Download CV (PDF)](/files/cv-maria-jose-briceno-nikulin-en.pdf){: .btn .btn--primary}
+[Email me](mailto:mjnikulin@gmail.com){: .btn .btn--inverse}
+[LinkedIn](https://www.linkedin.com/in/mariajosebricenonikulin){: .btn .btn--inverse}
+[GitHub](https://github.com/canetaba){: .btn .btn--inverse}
+
 I'm an Electrical Engineer from Universidad de Santiago de Chile, with a background in industrial
 automation and process control. That foundation in embedded systems and control led me into software
 development, where I've worked on intelligent transportation, electronic voting platforms and digital government.
