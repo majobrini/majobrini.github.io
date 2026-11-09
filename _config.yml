@@ -11,7 +11,7 @@ locale                   : "es"
 title                    : "María José Briceño Nikulin"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Software Engineer"
+description              : &description "Backend Software Engineer en Thoughtworks. Java, Spring Boot, arquitectura hexagonal, Kubernetes, GCP y CI/CD. Ingeniera Civil Eléctrica."
 url                      : https://majobrini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "majobrini/academicpages.github.io"
@@ -24,8 +24,8 @@ author:
   avatar           : "bio-photo-2.jpg"
   name             : "María José Briceño Nikulin"
   pronouns         : "she/her"  
-  bio              : "Ingeniera Civil en Electricidad con experiencia en el desarrollo de software"
-  location         : "Santiago/ Chile"
+  bio              : "Backend Software Engineer @ Thoughtworks | Java · Spring Boot · Arquitectura Hexagonal | Kubernetes · GCP · CI/CD | Ingeniera Civil Eléctrica"
+  location         : "Santiago, Chile"
   uri              :  "https://majobrini.github.io"
   email            : "mjnikulin@gmail.com" 
 
@@ -96,7 +96,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "bio-photo-2.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
