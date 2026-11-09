@@ -15,7 +15,7 @@ Educación
 * UCR INNOVA’R I-CORPS-Based Training, University of California, Riverside, 2020
 * Diploma en Inteligencia Artificial, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2019-2020. Aprobado con distinción máxima
 * Magíster en Ciencias de la Ingeniería, mención Eléctrica. Facultad de Ciencias Físicas y
-  Matemáticas. Universidad de Chile. (Retiro voluntario), 2016-2017
+  Matemáticas. Universidad de Chile. (Retiro voluntario), 2015-2017
 * Ingeniera Civil en Electricidad, Universidad de Santiago de Chile, 2013
 
 
