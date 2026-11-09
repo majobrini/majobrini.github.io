@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-[Download CV as PDF](/files/cv-maria-jose-briceno-nikulin-en.pdf){: .btn .btn--primary} [Versión en español](/files/cv-maria-jose-briceno-nikulin-es.pdf){: .btn .btn--inverse}
-
 Education
 ------
 * Diploma in Software Engineering, Department of Computer Science (DCC), Faculty of Physical and Mathematical Sciences, Universidad de Chile, 2024. Passed with highest distinction
@@ -19,8 +17,6 @@ Education
   Universidad de Chile (voluntary withdrawal), 2015-2017
 * Electrical Engineer (Ingeniera Civil en Electricidad), Universidad de Santiago de Chile, 2013
 
-
-
 Work Experience
 ------
 
@@ -29,10 +25,8 @@ Work Experience
   * Deployment and operation on Kubernetes and GCP, with GitLab CI/CD pipelines
   * Observability with Grafana and Prometheus
 
-
 * **July 2024 - May 2025. Engineering Consultant, independent**
   * Software development consulting with Java
-
 
 * **February 2023 - July 2024. Software Engineer, SUBTEL, Ministry of Transport and Telecommunications of Chile**
   * Technical Lead for implementing the Digital Government Law at SUBTEL
@@ -40,11 +34,9 @@ Work Experience
   * Design and implementation of new features for a technology upgrade based on
     microservices
 
-
 * **March 2022 - December 2022. Software Engineer, EVoting Global**
   * Development and maintenance of features for the EHolders (shareholder meetings) and
     EVoters (elections software) platforms
-
 
 * **September 2016 - March 2022. Software Engineer, Sonda S.A.**
   * Fleet Management Project: development of the on-board console software.
@@ -65,3 +57,5 @@ Work Experience
 
   * KMS Project
      * Design and development of an application to manage the security of transit system cards
+
+[Download CV as PDF](/files/cv-maria-jose-briceno-nikulin-en.pdf){: .btn .btn--primary} [Versión en español](/files/cv-maria-jose-briceno-nikulin-es.pdf){: .btn .btn--inverse}
