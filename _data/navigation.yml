@@ -30,3 +30,23 @@ main:
 
   - title: "Atletismo"
     url: /athletics/
+
+  - title: "EN"
+    url: /en/
+
+# English navigation (used on pages with `lang: en`)
+en:
+  - title: "CV"
+    url: /en/cv/
+
+  - title: "Publications"
+    url: /en/publications/
+
+  - title: "Technologies"
+    url: /en/technologies/
+
+  - title: "Athletics"
+    url: /en/athletics/
+
+  - title: "ES"
+    url: /
