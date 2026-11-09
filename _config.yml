@@ -119,6 +119,32 @@ include:
   - _pages
   - files
 exclude:
+  # Contenido de ejemplo de la plantilla AcademicPages (no publicar)
+  - _posts
+  - _drafts
+  - _portfolio
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/publications.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - CONTRIBUTING.md
+  - README.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -176,9 +202,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   technologies:

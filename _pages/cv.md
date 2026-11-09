@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Currículum"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Educación
-======
+------
 * Diploma en Ingeniería de Software, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2024. Aprobado con distinción máxima
 * UCR INNOVA’R I-CORPS-Based Training, University of California, Riverside, 2020
 * Diploma en Inteligencia Artificial, DCC, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile, 2019-2020. Aprobado con distinción máxima
@@ -21,7 +21,7 @@ Educación
 
 
 Experiencia Laboral
-======
+------
 
 * **Enero 2025 - actualidad. Developer Consultant, Thoughtworks**
   * Desarrollo backend con Java, Spring Boot y arquitectura hexagonal
