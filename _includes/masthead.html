@@ -6,8 +6,9 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
+          {% if page.lang == "en" %}{% assign nav = site.data.navigation.en %}{% assign home = "/en/" %}{% else %}{% assign nav = site.data.navigation.main %}{% assign home = "/" %}{% endif %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}{{ home }}">{{ site.title }}</a></li>
+          {% for link in nav %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
